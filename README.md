@@ -11,7 +11,7 @@
 
 
 ## General info
-This project is a Multi-Page SPA with React Router
+This project is a Multi-Page SPA with React Router and Firebase
 
 	
 ## Setup
